@@ -96,6 +96,8 @@ static CGFloat const kMQChatViewInputBarHeight = 80.0;
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    // abc
+    
     [MQServiceToViewInterface prepareForChat];
     
     // Do any additional setup after loading the view.
